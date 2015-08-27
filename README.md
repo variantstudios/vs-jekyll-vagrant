@@ -1,6 +1,6 @@
 # VS Jekyll Vagrant
 
-This project was initially created to help Windows users to work with our Jekyll setup. Our Jekyll Starter includes Node/NPM, Bundler, Gulp and Browsersync to name a few. This can be tricky to setup on 
+This project was initially created to help Windows users to work with our Jekyll setup. Our Jekyll Starter includes Node/NPM, Bundler, Gulp and Browsersync to name a few. This can be tricky to setup on a Windows computer and therefore the creation of this project.
 
 ## Inital Setup
 
