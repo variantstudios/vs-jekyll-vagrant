@@ -1,5 +1,6 @@
 # VS Jekyll Vagrant
-==============
+
+This project was initially created to help Windows users to work with our Jekyll setup. Our Jekyll Starter includes Node/NPM, Bundler, Gulp and Browsersync to name a few. This can be tricky to setup on 
 
 ## Inital Setup
 
@@ -10,8 +11,10 @@
 ### Clone this repository 
 `$ git clone https://github.com/variantstudios/vs-jekyll-vagrant.git`
 
-### SSH into Vagrant: open command prompt to location of the Vagrantfile and run
-`$ vagrant up`
+### SSH into Vagrant
+Open command prompt to location of the Vagrantfile and run`$ vagrant up`
+By the way, this will take a long time so this is a good time to snag a snack.
+
 
 ### Clone this repository 
 `$ git clone https://github.com/variantstudios/vs-jekyll-starter-kit.git`
